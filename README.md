@@ -3,4 +3,4 @@
 - 🎓 I'm a recent graduate of [Metis Data Science bootcamp](https://www.thisismetis.com/bootcamps/online-data-science-bootcamp)
 - 👩🏽‍💻 I'm an experienced public health professional, bringing value added within research and U.S. military settings
 - 🗾 I spend my free time lifting heavy kettlebells, traveling, being a foodie, and improving my data wizard abilities
-- 📫 How to reach me mcbridenicolem@gmail.com
+- 📫 Reach me at mcbridenicolem@gmail.com
