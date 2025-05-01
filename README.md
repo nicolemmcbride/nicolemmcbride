@@ -1,4 +1,4 @@
-<b>🌸 Hello! I’m [Nicole](https://www.linkedin.com/in/nicole-michelle-mcbride/), welcome to my projects!</b>
+<b>🌸 Hello! I’m [Nicole](https://www.linkedin.com/in/nicole-michelle-guerrero/), welcome to my projects!</b>
 
 I'm a Data Scientist for the Dept of Defense. I support the safety and well-being of Service Members and their families by supporting efforts that prevent violence.
 
